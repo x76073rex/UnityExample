@@ -3,7 +3,7 @@ using System.Collections;
 
 public class TestScript : MonoBehaviour
 {
-	public Sprite SceneSprite;
+	public SpriteRenderer SceneSpriteRenderer;
 
 	// Use this for initialization
 	void Start ()
